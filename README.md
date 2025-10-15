@@ -21,7 +21,7 @@ Telco Customer Churn from Kaggle: [https://www.kaggle.com/datasets/blastchar/tel
 Targeting high-risk customers (e.g., expensive plans) with discounts could reduce churn by 10%, saving ~$157,000 annually (based on avg. $70/month charge).
 
 ## Visualization
-![Feature Importance](feature_importance.png)
+![Feature Importance](features_importance.png.png)
 
 ## Usage
 Open the notebook in Jupyter to explore the code, from data loading to modeling.
